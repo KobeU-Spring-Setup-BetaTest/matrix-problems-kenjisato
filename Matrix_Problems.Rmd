@@ -20,9 +20,9 @@ $$
 \end{bmatrix}
 =
 \begin{bmatrix}
- \dots & \dots & \dots \\
- \dots & \dots & \dots \\
- \dots & \dots & \dots \\
+ 6  & -4 & 8 \\
+ 2  &  4 & 2 \\
+ 12 &  8 & 8 \\
 \end{bmatrix}
 $$
 
@@ -49,6 +49,36 @@ B =
 \end{bmatrix}
 $$
 
+**[Comment by the student]** Do you want to ask
+$$
+A =
+\begin{bmatrix}
+ 3 & -1 \\
+ 5 & 2 \\
+\end{bmatrix}, 
+\quad
+B =
+\begin{bmatrix}
+ 2 & -2 \\
+ 0 & 0 \\
+\end{bmatrix}
+\Longrightarrow
+AB=
+\begin{bmatrix}
+ \dots & \dots \\
+ \dots & \dots \\
+\end{bmatrix},
+$$
+am I right? If so, 
+$$
+AB=
+\begin{bmatrix}
+ 6 & -6 \\
+ 10 & -10 \\
+\end{bmatrix}.
+$$
+
+
 Multiply A by C
 
 $$
@@ -70,6 +100,13 @@ C =
 \end{bmatrix}
 $$
 
+$$
+AC = 
+\begin{bmatrix}
+  6 &  -6 & 12 \\
+ 10 & -10 & 20 \\
+\end{bmatrix}
+$$
 
 #Summation
 
@@ -94,6 +131,14 @@ B =
 \end{bmatrix}
 $$
 
+$$
+A + B =
+\begin{bmatrix}
+  3 & 5 \\
+ -1 & 8 \\
+\end{bmatrix}
+$$
+
 
 ##Sum C and D
 
@@ -112,6 +157,11 @@ D =
 =
 $$
 
-
- 
+$$
+C + D =
+\begin{bmatrix}
+   3 & 3 &  2 \\
+  -1 & 5 & -1
+\end{bmatrix}
+$$ 
  
